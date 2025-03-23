@@ -1,9 +1,9 @@
 <div align="center"><h1>Hi👋, I'm Amit</h1></div>
 <div align="center"><h4>Software QA Engineer (SDET)</h4></div>
 
-🔭 I’m currently ensuring quality of the Core Applications that manage entire Collections stock of UK customer for a Major High Street Bank. 
-🌱 I’m currently learning to advance my technical skills in Automation through Java, Selenium and other tools to design, develop and implement scalable Automation Frameworks.
-📫 You can reach me anytime over Linkedin.
+<p>🔭 I’m currently ensuring quality of the Core Applications that manage entire Collections stock of UK customer for a Major High Street Bank. </p>
+<p>🌱 I’m currently learning to advance my technical skills in Automation through Java, Selenium and other tools to design, develop and implement scalable Automation Frameworks.</p>
+<p>📫 You can reach me anytime over Linkedin.</p>
 <!--
 **amitkaushik8368/amitkaushik8368** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

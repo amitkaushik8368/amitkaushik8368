@@ -1,4 +1,5 @@
-<div align="center"><h2>Hi👋 I'm Amit</h2></div>
+<div align="center"><h1>Hi👋, I'm Amit</h1></div>
+<div align="center"><h5>Software QA Engineer (SDET)</h5></div>
 
 <!--
 **amitkaushik8368/amitkaushik8368** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

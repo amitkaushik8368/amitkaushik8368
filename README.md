@@ -1,4 +1,4 @@
-                                        ##Hi there 👋 I am Amit
+<div align="center"> Hi there 👋 I am Amit</div>
 
 <!--
 **amitkaushik8368/amitkaushik8368** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
